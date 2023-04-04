@@ -1,0 +1,6 @@
+aiogram
+selenium
+bs4
+webdriver-manager
+requests
+lxml
